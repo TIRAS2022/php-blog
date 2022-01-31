@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="d8d1c875-fa9c-4b62-8f56-aa6436076923" name="PHP" home="D:\progect1\File php1.php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="d8d1c875-fa9c-4b62-8f56-aa6436076923" name="PHP" home="C:\OpenServer\domains\Iam.my\public_html\index.php" debugger_id="php.debugger.XDebug" debugger_extension="C:\OpenServer\domains\Iam.my\public_html\index.php" />
     </interpreters>
   </component>
 </application>
